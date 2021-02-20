@@ -1,3 +1,5 @@
+//prawidłowe poruszanie się wraz z rotacją oraz skakanie, jeszcze bez animacji
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
