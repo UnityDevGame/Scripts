@@ -41,7 +41,7 @@ public class DeadAstro : MonoBehaviour
     }
     void SpawnAstro()
     {
-        Instantiate(Chuj, Spawn.position, Quaternion.identity);
+        Instantiate(Astro, Spawn.position, Quaternion.identity);
     }
 
 }
